@@ -1,6 +1,20 @@
 # books-to-read
 A list of books I'd like to read at some point.
 
+- [English](#english)
+  * [Computer Science](#computer-science)
+  * [Business and Economics](#business-and-economics)
+  * [Education](#education)
+  * [English language](#english-language)
+  * [Misc.](#misc)
+  * [PhD](#phd)
+  * [Philosophy](#philosophy)
+  * [Psychology](#psychology)
+  * [Scientific Method](#scientific-method)
+  * [Statistics](#statistics)
+  * [Human-machine interaction](#human-machine-interaction)
+  * [Writing](#writing)
+
 # English
 
 ## Computer Science
